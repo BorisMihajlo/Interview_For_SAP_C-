@@ -9,3 +9,14 @@ C:\Users\bomi2006\Desktop\zadatak\HotelReservations\HotelReservations\obj\Debug\
 C:\Users\bomi2006\Desktop\zadatak\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.1\HotelReservations.AssemblyInfo.cs
 C:\Users\bomi2006\Desktop\zadatak\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.1\HotelReservations.dll
 C:\Users\bomi2006\Desktop\zadatak\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.1\HotelReservations.pdb
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.1\HotelReservations.exe
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.1\HotelReservations.deps.json
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.1\HotelReservations.runtimeconfig.json
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.1\HotelReservations.runtimeconfig.dev.json
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.1\HotelReservations.dll
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\bin\Debug\netcoreapp3.1\HotelReservations.pdb
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.1\HotelReservations.csprojAssemblyReference.cache
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.1\HotelReservations.AssemblyInfoInputs.cache
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.1\HotelReservations.AssemblyInfo.cs
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.1\HotelReservations.dll
+C:\Users\bomi2006\Desktop\Interview_For_SAP_C-\HotelReservation\HotelReservations\HotelReservations\obj\Debug\netcoreapp3.1\HotelReservations.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bomi2006\\Desktop\\zadatak\\HotelReservations\\HotelReservations\\HotelReservations.csproj": {}
+    "C:\\Users\\bomi2006\\Desktop\\Interview_For_SAP_C-\\HotelReservation\\HotelReservations\\HotelReservations\\HotelReservations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bomi2006\\Desktop\\zadatak\\HotelReservations\\HotelReservations\\HotelReservations.csproj": {
+    "C:\\Users\\bomi2006\\Desktop\\Interview_For_SAP_C-\\HotelReservation\\HotelReservations\\HotelReservations\\HotelReservations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bomi2006\\Desktop\\zadatak\\HotelReservations\\HotelReservations\\HotelReservations.csproj",
+        "projectUniqueName": "C:\\Users\\bomi2006\\Desktop\\Interview_For_SAP_C-\\HotelReservation\\HotelReservations\\HotelReservations\\HotelReservations.csproj",
         "projectName": "HotelReservations",
-        "projectPath": "C:\\Users\\bomi2006\\Desktop\\zadatak\\HotelReservations\\HotelReservations\\HotelReservations.csproj",
+        "projectPath": "C:\\Users\\bomi2006\\Desktop\\Interview_For_SAP_C-\\HotelReservation\\HotelReservations\\HotelReservations\\HotelReservations.csproj",
         "packagesPath": "C:\\Users\\bomi2006\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bomi2006\\Desktop\\zadatak\\HotelReservations\\HotelReservations\\obj\\",
+        "outputPath": "C:\\Users\\bomi2006\\Desktop\\Interview_For_SAP_C-\\HotelReservation\\HotelReservations\\HotelReservations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bomi2006\\AppData\\Roaming\\NuGet\\NuGet.Config",

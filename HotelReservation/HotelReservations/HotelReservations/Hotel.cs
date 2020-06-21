@@ -9,7 +9,7 @@ namespace HotelReservations.Room
     public class Hotel
     {
         /*key represent number of room, value represent Room entity*/
-        public Dictionary<int, Room> rooms;
+        private Dictionary<int, Room> rooms;
         public Hotel(int size)
         {
             if (size <= 1000)
